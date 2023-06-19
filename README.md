@@ -26,11 +26,11 @@ I am a Front End developer.
  </a> 
  &nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" title="React" alt="React" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" title="React.js" alt="React" />
 </a> 
  &nbsp; 
  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" title="Bootstrap" alt="Bootstrap" />
  </a>
  &nbsp; 
 <!--  <a href="https://bootstrap.com/" target="_blank" rel="noreferrer">
