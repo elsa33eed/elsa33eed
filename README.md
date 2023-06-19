@@ -30,12 +30,12 @@ I am a Front End developer.
 </a> 
  &nbsp; 
  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
  </a>
  &nbsp; 
- <a href="https://bootstrap.com/" target="_blank" rel="noreferrer">
+<!--  <a href="https://bootstrap.com/" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
- </a> 
+ </a>  -->
 
 ### Socials
 
