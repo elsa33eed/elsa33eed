@@ -6,7 +6,7 @@ I am a Front End developer.
 
 *   🌍  I'm based in Cairo, Egypt
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://elsa3eed.vercel.app/'>Portfolio</a>
-*   🧠  Currently learning Sass
+*   🧠  Currently learning Redux
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
@@ -33,6 +33,9 @@ I am a Front End developer.
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" title="Bootstrap" alt="Bootstrap" />
  </a>
  &nbsp; 
+ <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" title="Sass" alt="Sass" />
+ </a>
 <!--  <a href="https://bootstrap.com/" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
  </a>  -->
