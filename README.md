@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨  Creating bugs since two years ago<br>🔭 I’m currently working on Weather App<br>📚 I'm currently learning React.js<br>🎯 Goals: Best full-stack developer<br>📫 How to reach me: elsa33eed@gmail.com</p>
 
 ###
 
@@ -50,6 +50,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/elsa33eed/elsa33eed/output/snake.svg" alt="Snake animation" />
 
