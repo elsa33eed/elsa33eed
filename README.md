@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Mohamed Saeed and I'm a MEARN full-stack developer, from Egypt.</p>
+<p align="left">My name is Mohamed Saeed and I'm a full-stack MEARN developer, from Egypt.</p>
 
 ###
 
